@@ -11,7 +11,7 @@ Creo que son muy importantes, sin estas redes la informacion no se podria compar
 
 ### Actividad 1.3
 
-5 pilares  de la red computacional:
+##### 5 pilares  de la red computacional:
 
 - Nodos (origeny destino): Dispositivos que envian y reciben datos dentro del ecosistema de la red.
 
@@ -25,3 +25,4 @@ Creo que son muy importantes, sin estas redes la informacion no se podria compar
 
 
 
+####  Actividad 1.4
