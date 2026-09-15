@@ -12,6 +12,7 @@ Creo que son muy importantes, sin estas redes la informacion no se podria compar
 ### Actividad 1.3
 
 ##### 5 pilares  de la red computacional:
+![[MapaRedComputacional]]
 
 - Nodos (origeny destino): Dispositivos que envian y reciben datos dentro del ecosistema de la red.
 
@@ -21,8 +22,4 @@ Creo que son muy importantes, sin estas redes la informacion no se podria compar
 
 - Protocolos (el lenguaje comun): Reglas estrictas de formato y sintaxis que permitela comunicacion entre dispositivos.
 
-- Enrutamiento (Gestion  de  rutas): Proceso de decision para determinar el camino mas eficiente para los datos
-
-
-
-####  Actividad 1.4
+- Enrutamiento (Gestion  de  rutas): Proceso de decision para determinar el camino mas eficiente para los datos.
